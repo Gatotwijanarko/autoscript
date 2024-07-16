@@ -1,5 +1,5 @@
 <p style="text-align:center">
-<font color="#FF1493">⚡BjhonStore⚡</font><br />
+<font color="#FF1493">⚡BjhonStore⚡</font><br/>
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क</b></font><br>
 <font color="yellow"><b>🤗 2 𝑳𝑶𝑮𝑰𝑵 𝑫𝑬𝑽𝑰𝑪𝑬 !!! </b></font><br>
 <font color="magenta"><b>😋𝑵𝑶 𝑫𝑫𝑶𝑺!!! </b></font><br>
@@ -34,7 +34,7 @@ Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi y
 ```
 wget -q https://raw.githubusercontent.com/BjhonStore/Autoscript-tunneling-premium/main/update.sh && chmod +x update.sh && ./update.sh
 ```
-## sewa autoscript bisa ke wa.me/6281255378890 cuman 10k 2bulan 1ip vps
+## sewa autoscript bisa ke wa.me/6282116211399 cuman 10k 2bulan 1ip vps
 ReeMods
 ```
 anjay
