@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » vpiinstore online 
-# Email      » woymirza@gmail.com
-# telegram   » https://t.me/vpiinstore
-# whatsapp   » wa.me/+6281532859320
+# Develovers » BjhonStore
+# Email      » BjhonStore@gmail.com
+# telegram   » https://t.me/BjhonStore
+# whatsapp   » wa.me/+6282116211399
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Vpiinstore-Online
+# BjhonStore
 
 NS=$( cat /etc/xray/dns )
 PUB=$( cat /etc/slowdns/server.pub )
@@ -33,13 +33,13 @@ echo ""
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "\e[1;97;101m           » TAMBAH BOT PANEL «           \e[0m"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "${grenbo}Tutorial Creat Bot and ID Telegram${NC}"
-echo -e "${grenbo}[»] Creat Bot and Token Bot : @BotFather${NC}"
+echo -e "${grenbo}Tutorial Create Bot Dan ID Telegram${NC}"
+echo -e "${grenbo}[»] Create Bot Dan Token Bot : @BotFather${NC}"
 echo -e "${grenbo}[»] Info Id Telegram : @MissRose_bot${NC}"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e ""
-read -e -p "[»] Input your Bot Token   : " bottoken
-read -e -p "[»] Input Your Id Telegram : " admin
+read -e -p "[»] Masukan Bot Token   : " bottoken
+read -e -p "[»] Masukan Id Telegram : " admin
 echo -e BOT_TOKEN='"'$bottoken'"' >> /usr/bin/kyt/var.txt
 echo -e ADMIN='"'$admin'"' >> /usr/bin/kyt/var.txt
 echo -e DOMAIN='"'$domain'"' >> /usr/bin/kyt/var.txt
@@ -67,7 +67,7 @@ systemctl restart kyt
 cd /root
 rm -rf kyt.sh
 echo "Input Data Berhasil Diproses!"
-echo "Your Data Bot Telegram"
+echo "Data Bot Telegram Kamu"
 echo -e "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "Token Bot      : $bottoken"
 echo "Admin          : $admin"
